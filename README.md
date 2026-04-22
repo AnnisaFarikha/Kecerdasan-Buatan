@@ -29,6 +29,7 @@ Format file menggunakan **Jupyter Notebook (`.ipynb`)** agar mudah dijalankan da
 Materi yang dipelajari dan diimplementasikan dalam repository ini meliputi:
 
 - Operasi Matematika, Vektor, dan Matriks
+- Pengukuran Statistik Deskriptif
 
 > Catatan: Materi pada setiap file menyesuaikan dengan silabus dan modul praktikum yang diberikan dosen.
 
