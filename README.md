@@ -30,6 +30,10 @@ Materi yang dipelajari dan diimplementasikan dalam repository ini meliputi:
 
 - Operasi Matematika, Vektor, dan Matriks
 - Pengukuran Statistik Deskriptif
+- Exploratory Data Analysis
+- Data Pre-Processing
+- Supervise Learning - Regression dan Classification
+- Supervise Learning - SVM dan Naive Bayes
 
 > Catatan: Materi pada setiap file menyesuaikan dengan silabus dan modul praktikum yang diberikan dosen.
 
